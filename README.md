@@ -1,7 +1,4 @@
-#Bismillah
-#Assalamu-Alaikum 
-
-[+] Termux-Lazyscript :-
+#Bism :-
  
    This tool is specially Designed for Termux Beginner 
    users.This tool is very helpfull for Beginners.here
